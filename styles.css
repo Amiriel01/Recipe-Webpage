@@ -1,13 +1,14 @@
 /* styles.css */
 
 * {
-    color: #02006c;
-    background-color: #59788e;
-    
-    font-weight: bold;
-    
-  }
+  color: #02006c;
+  background-color: #59788e;
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+}
 
-  .dots
-  {display: inline;}
-  
+.dots {
+  display: inline;
+}
