@@ -1,0 +1,13 @@
+/* styles.css */
+
+* {
+    color: #02006c;
+    background-color: #59788e;
+    
+    font-weight: bold;
+    
+  }
+
+  .dots
+  {display: inline;}
+  
