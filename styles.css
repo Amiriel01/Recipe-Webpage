@@ -4,6 +4,8 @@
   color: #02006c;
   background-color: #59788e;
   font-weight: bold;
+  
+  
 }
 .center {
   text-align: center;
@@ -11,4 +13,24 @@
 
 .dots {
   display: inline;
+}
+
+ul {
+
+  text-align: center;
+  list-style-type: none;
+}
+
+ol {
+  width: 600px;
+  margin-left: 675px;
+}
+
+h1, h2 {
+  text-decoration: underline;
+  color: #63c5da
+}
+
+body {
+  font-size: large;
 }
