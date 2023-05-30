@@ -12,7 +12,8 @@ Front Page of Website:
 ![](images/frontpage.png)
 
 Recipe 1:
-
+![](images/page2.png)
+![](images/page2-2.png)
 
 Recipe 2:
 
