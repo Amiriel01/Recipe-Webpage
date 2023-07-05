@@ -1,4 +1,4 @@
-# odin-recipes
+# Recipe Website
 
 **Objective**
 
